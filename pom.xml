@@ -8,12 +8,12 @@
 		<version>2.2.6.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.pvt71</groupId>
+	<groupId>com.example</groupId>
 	<artifactId>demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>demo</name>
-	<description>Project group PVT71</description>
+	<description>Project Group 71</description>
 
 	<properties>
 		<java.version>11</java.version>
